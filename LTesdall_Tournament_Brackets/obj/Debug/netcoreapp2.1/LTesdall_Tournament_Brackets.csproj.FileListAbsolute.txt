@@ -1,0 +1,11 @@
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\obj\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\obj\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.AssemblyInfoInputs.cache
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\obj\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.AssemblyInfo.cs
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\obj\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.csprojAssemblyReference.cache
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\bin\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.deps.json
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\bin\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.runtimeconfig.json
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\bin\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.runtimeconfig.dev.json
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\bin\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.dll
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\bin\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.pdb
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\obj\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.dll
+C:\Users\Lacy Tesdall\source\repos\LTesdall_Tournament_Brackets\LTesdall_Tournament_Brackets\obj\Debug\netcoreapp2.1\LTesdall_Tournament_Brackets.pdb
